@@ -41,7 +41,7 @@ def insert_new_products(connection, product):
     return cursor.lastrowid
 
 
-def delete_products(connection, product_id):
+def delete_product(connection, product_id):
 
     cursor =  connection.cursor()
 
