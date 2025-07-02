@@ -33,7 +33,7 @@ Run provided SQL schema to create tables: products, uom, orders, order_details
 
 Update sql_connection.py with your MySQL credentials.
 
-###3. Run backend server
+### 3. Run backend server
 ```bash
  python server.py
 ```
