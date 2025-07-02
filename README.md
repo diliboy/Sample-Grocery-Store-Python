@@ -38,7 +38,7 @@ Update sql_connection.py with your MySQL credentials.
  python server.py
 ```
 
-###4. Launch frontend
+### 4. Launch frontend
 Use a simple static server, or VS Code Live Server:
 
 ```bash
