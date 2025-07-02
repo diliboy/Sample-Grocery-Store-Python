@@ -26,7 +26,7 @@ def get_all_products(connection):
     return response
 
 
-def insert_new_products(connection, product):
+def insert_new_product(connection, product):
 
     cursor =  connection.cursor()
 
